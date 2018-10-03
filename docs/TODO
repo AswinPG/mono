@@ -34,4 +34,7 @@
 
 * Install documentation into monodoc's standard location.
 
+.
+*Add Comments
+
 * Add support for inserting "api:" nodes into the index in the Monodoc XHTML provider.
